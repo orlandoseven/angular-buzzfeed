@@ -1,0 +1,106 @@
+{
+  "title": "No universo de Dragon Ball Z,você seria o Goku ou Vegeta?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Como você lida com desafios inesperados?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Fico irritado e decidido a vencer, sem mostrar fraqueza.",
+          "alias": "B"
+        },
+        {
+          "id": 2,
+          "name": "Eu vejo um desafio como uma oportunidade de me tornar mais forte!",
+          "alias": "A"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Qual a sua principal motivação na vida?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Ser o mais forte, mas sempre com diversão e amizade.",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Provar que sou o melhor, sem me importar com os outros.",
+          "alias": "A"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Quando alguém te desafia, como você reage?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Eu aceito o desafio com um sorriso e estou disposto a me divertir.",
+          "alias": "B"
+        },
+        {
+          "id": 2,
+          "name": "Eu aceito, mas não faço questão de mostrar minha empatia. Vou ganhar de qualquer jeito.",
+          "alias": "A"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Como você lida com a competição?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Competir é algo sério. A vitória é tudo.",
+          "alias": "B"
+        },
+        {
+          "id": 2,
+          "name": "Adoro competir, mas sempre tento manter o espírito esportivo.",
+          "alias": "A"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Qual é o seu relacionamento com seus amigos?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Tenho muitos amigos e gosto de proteger todos eles.",
+          "alias": "A"
+        },
+        {
+          "id": 2,
+          "name": "Tenho poucos amigos, e raramente demonstro que me importo com eles.",
+          "alias": "B"
+        }
+      ]
+    },
+
+    {
+      "id": 6,
+      "question": "Qual é a sua opinião sobre os seus inimigos?",
+      "options": [
+        {
+          "id": 1,
+          "name": "Eu vejo qualquer inimigo como um inseto que precisa ser eliminado.",
+          "alias": "B"
+        },
+        {
+          "id": 2,
+          "name": "Eu tento entender os outros e quando possível, fazer amizade com eles.",
+          "alias": "A"
+        }
+      ]
+    }
+  ],
+  "results": {
+    "A": "Você seria o GOKU!",
+    "B": "Você seria o VEGETA!"
+  }
+}
